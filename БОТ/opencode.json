@@ -1,0 +1,18 @@
+{
+  "model": "gptunnel/gpt-4o-mini",
+  "provider": {
+    "gptunnel": {
+      "npm": "@ai-sdk/openai-compatible",
+      "name": "GPTunneL",
+      "options": {
+        "baseURL": "https://gptunnel.ru/v1",
+        "apiKey": "shds-xnEFRYYxzBuKt6ijX6s73oBPLdh"
+      },
+      "models": {
+        "gpt-4o-mini": {
+          "name": "GPT-4o mini"
+        }
+      }
+    }
+  }
+}
