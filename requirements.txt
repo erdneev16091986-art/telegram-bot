@@ -1,1 +1,4 @@
-aiogram>=3.4,<4.0
+aiogram
+beautifulsoup4
+curl-cffi
+fake-useragent
